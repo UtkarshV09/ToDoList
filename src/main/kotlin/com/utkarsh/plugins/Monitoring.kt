@@ -1,4 +1,4 @@
-package com.example.plugins
+package com.utkarsh.plugins
 
 import io.ktor.server.plugins.callloging.*
 import org.slf4j.event.*

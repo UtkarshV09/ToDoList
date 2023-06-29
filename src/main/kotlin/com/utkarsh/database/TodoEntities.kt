@@ -1,4 +1,4 @@
-package com.example.database
+package com.utkarsh.database
 
 import org.ktorm.entity.Entity
 import org.ktorm.schema.Table

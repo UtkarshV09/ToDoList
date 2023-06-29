@@ -1,8 +1,7 @@
-package com.example.database
+package com.utkarsh.database
 
-import com.example.database.DBTodoTable.id
-import com.example.entities.ToDo
-import com.example.entities.TodoDraft
+import com.utkarsh.entities.ToDo
+import com.utkarsh.entities.TodoDraft
 import org.ktorm.database.Database
 import org.ktorm.dsl.delete
 import org.ktorm.dsl.eq

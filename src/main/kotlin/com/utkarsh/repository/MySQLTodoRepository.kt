@@ -1,8 +1,8 @@
-package com.example.repository
+package com.utkarsh.repository
 
-import com.example.database.DatabaseManager
-import com.example.entities.ToDo
-import com.example.entities.TodoDraft
+import com.utkarsh.database.DatabaseManager
+import com.utkarsh.entities.ToDo
+import com.utkarsh.entities.TodoDraft
 
 class MySQLTodoRepository: ToDoRepository {
 

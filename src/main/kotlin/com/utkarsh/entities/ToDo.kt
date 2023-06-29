@@ -1,4 +1,4 @@
-package com.example.entities
+package com.utkarsh.entities
 
 data class ToDo(
     val id: Int,

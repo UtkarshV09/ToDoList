@@ -1,10 +1,8 @@
-package com.example.plugins
+package com.utkarsh.plugins
 
-import com.example.entities.ToDo
-import com.example.entities.TodoDraft
-import com.example.repository.InMemoryToDoRepository
-import com.example.repository.MySQLTodoRepository
-import com.example.repository.ToDoRepository
+import com.utkarsh.entities.TodoDraft
+import com.utkarsh.repository.MySQLTodoRepository
+import com.utkarsh.repository.ToDoRepository
 import io.ktor.http.*
 import io.ktor.server.routing.*
 import io.ktor.server.response.*

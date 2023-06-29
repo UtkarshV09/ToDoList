@@ -1,7 +1,7 @@
-package com.example.repository
+package com.utkarsh.repository
 
-import com.example.entities.ToDo
-import com.example.entities.TodoDraft
+import com.utkarsh.entities.ToDo
+import com.utkarsh.entities.TodoDraft
 
 class InMemoryToDoRepository : ToDoRepository{
 
